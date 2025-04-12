@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTHOSH
 
-## DESCRIPTION:
+# DESCRIPTION:
 
 In this project, I developed a responsive and visually appealing Weather Forecast Web Application that fetches and displays real-time weather data along with a 5-day forecast for any city using the OpenWeatherMap API. The main objective was to build a user-friendly interface that helps users check current weather conditions and future forecasts for their location or any other city in the world.
 
@@ -55,4 +55,12 @@ This project demonstrates practical skills in frontend development, API integrat
 
 Through this project, I gained hands-on experience with React.js, API handling, and responsive design, and understood how to present real-time data dynamically using modern web development techniques.
 
-##OUTPUT
+# OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/b7a27266-0d64-4244-b8c2-90314933e62f)
+
+![Image](https://github.com/user-attachments/assets/a98ee0d6-2a2d-4245-85c7-81ac8a4f8385)
+
+![Image](https://github.com/user-attachments/assets/9ff37c03-e4e9-4b7a-b717-965832b1686b)
+
+![Image](https://github.com/user-attachments/assets/8a8cb7e2-10a1-4c60-b54a-a8355a303b7d)
